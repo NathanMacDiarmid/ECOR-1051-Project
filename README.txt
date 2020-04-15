@@ -1,6 +1,6 @@
 BuggingMeFilters 
 Version 1.1 
-Price: $19.99 
+Price: Free 
 
 04/07/2020
 
